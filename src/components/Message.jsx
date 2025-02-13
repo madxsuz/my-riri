@@ -1,5 +1,13 @@
 import React from 'react'
-import {picture} from '../assets'
+import {
+  bnbConcert,
+  celebBday,
+  chikaVMs,
+  csbaby,
+  firstConvo,
+  firstIloveyou,
+  firstTaunt
+} from '../assets'
 import Carousel from './Carousel'
 import { ImageCard } from './ImageCard'
 import {ArrowLeft } from './icons'
@@ -10,8 +18,13 @@ function Message() {
 
   // customize your own picture, title and subtext. You can also add more picture.
   const pictures = [
-    { Image: picture, title: 'September 3, 2024', description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!"},   
-    { Image: picture, title: 'September 3, 2024', description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!"},
+    { Image: firstConvo, title: 'First Convo', description: "First time ta mag chat wala ko nag expect manapak ka(me nga naanad gina ignore chat LOL)."},
+    { Image: firstIloveyou, title: 'First I ❤️ you', description: "Until subong wala gid ko gaka umay simo nga Iloveyouuu!"},
+    { Image: celebBday, title: 'After Birthday Celeb', description: "Ikaw lang gid gin sugiran ko di kay di ko tani gusto mag celebrate pero of course! nag enjoy gid ko di(naka smack bala ya :*)."},
+    { Image: csbaby, title: 'CS Baby', description: "Syempre kuno abi na typo lang HAHAHAH!"},
+    { Image: chikaVMs, title: 'Chika Through VMs', description: "Hays TTEC Chika minute days hehe."},
+    { Image: firstTaunt, title: 'First mo nga Pangulit', description: "Kabalo ka nana aa, ako na uto-uto HHH yut."}, 
+    { Image: bnbConcert, title: 'To Ben&Ben Concert', description: "First concert with you hehe syempre updon taka kay diko magpasugot sila lang may mga pares(except reniel... Brooooo!)"},  
 
   ]
   return (

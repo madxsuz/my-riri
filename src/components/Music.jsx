@@ -3,51 +3,51 @@ import { ArrowLeft } from "./icons";
 import { useNavigate } from "react-router-dom";
 import { motion } from "framer-motion";
 import { useRef } from "react";
-import { heavenly,sparks,brandy,bruno,greenday,kanye,sunsetz,souljaboy } from "../assets";
+import { myLove,gustoWithYa,bmw,pleaseMe,yk,luther,notLikeUs,souljaboy } from "../assets";
 
 function Music() {
   const navigate = useNavigate();
   // Customize and add your own songs
   const songs = [
     {
-      title: "Heavenly",
-      artist: "Cigarettes After Sex",
-      albumCover: heavenly, 
+      title: "MY LOVE",
+      artist: "LeeHi",
+      albumCover: myLove, 
       left: "5%",
       top: "5%",
     },
     {
-      title: "The Boy Is Mine",
-      artist: "Brandy, Monica",
-      albumCover: brandy, 
+      title: "BMW",
+      artist: "Because",
+      albumCover: bmw, 
       left: "40%",
       top: "15%",
     },
     {
-      title: "Die With A Smile",
-      artist: "Lady Gaga, Bruno Mars",
-      albumCover: bruno, 
+      title: "Please Me",
+      artist: "Bruno Mars",
+      albumCover: pleaseMe, 
       left: '15%',
       top: '40%',
     },
     {
-      title: "Last Night on Earth",
-      artist: "Green Day",
-      albumCover: greenday, 
+      title: "YK",
+      artist: "Cean Jr.",
+      albumCover: yk, 
       left: '30%',
       top: '75%',
     },
     {
-      title: "American Boy",
-      artist: "Estelle, Kanye West",
-      albumCover: kanye, 
+      title: "Luther",
+      artist: "Kendrick Lamar",
+      albumCover: luther, 
       left: '5%',
       top: '65%',
     },
     {
-      title: "Sparks",
-      artist: "Coldplay",
-      albumCover: sparks, 
+      title: "Gusto With Ya",
+      artist: "DENY",
+      albumCover: gustoWithYa, 
       left: '25%',
       top: '90%',
     },
@@ -59,9 +59,9 @@ function Music() {
       top: '50%',
     },
     {
-      title: "Sunsetz",
-      artist: "Cigarettes After Sex",
-      albumCover: sunsetz, 
+      title: "Not Like Us",
+      artist: "Kendrick Lamar",
+      albumCover: notLikeUs, 
       left: "10%",
       top: "25%",
     },

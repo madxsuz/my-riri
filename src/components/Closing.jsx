@@ -32,7 +32,7 @@ function Closing() {
         {/* Greeting text */}
         <div className='w-[90%] max-w-[400px]'>
           <p className="z-10 text-white text-center text-xl font-semibold px-4 drop-shadow-lg">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, delectus? Ut delectus voluptatibus consequatur ex.
+            Now you know why nagapulaw ko hehe I just want to surprise you with this simple website. I hope you enjoyed it! I love you so much, my baby! 😘
           </p>
 
         {/* Button */}

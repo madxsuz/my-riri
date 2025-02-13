@@ -1,19 +1,20 @@
 
 import picture from "./picture.png";
 
-import heavenly from "./heavenly.jpg";
-import sparks from "./sparks.jpeg";
-import sunsetz from "./sunsetz.jpeg";
-import brandy from "./brandy.jpeg";
-import bruno from "./bruno.jpeg";
-import greenday from "./greenday.jpeg";
-import kanye from "./kanye.jpeg";
+import myLove from "./myLove.jpg";
+import gustoWithYa from "./gustoWithYa.jpg";
+import notLikeUs from "./notLikeUs.jpg";
+import bmw from "./bmw.jpg";
+import pleaseMe from "./pleaseMe.jpg";
+import yk from "./yk.jpg";
+import luther from "./luther.jpg";
 import souljaboy from "./souljaboy.jpeg";
 
 
 import fireworks from "./fireworks.gif";
 import valentines from "./valentines.gif";
 
+// monthly captures
 import feb2024 from "./feb2024.jpg";
 import mar2024 from "./mar2024.jpg";
 import apr2024 from "./apr2024.jpg";
@@ -27,22 +28,28 @@ import nov2024 from "./nov2024.jpg";
 import dec2024 from "./dec2024.jpg";
 import jan2025 from "./jan2025.jpg";
 
-
-
+// message conversations
+import bnbConcert from "./bnbConcert.jpg";
+import celebBday from "./celebBday.jpg";
+import chikaVMs from "./chikaVMs.jpg";
+import csbaby from "./csbaby.jpg";
+import firstConvo from "./firstConvo.jpg";
+import firstIloveyou from "./firstIloveyou.jpg";
+import firstTaunt from "./firstTaunt.jpg";
 
 export {
 
 picture,
-heavenly,
+myLove,
 valentines,
 fireworks,
 souljaboy,
-kanye,
-greenday,
-bruno,
-brandy,
-sunsetz,
-sparks,
+luther,
+yk,
+pleaseMe,
+bmw,
+notLikeUs,
+gustoWithYa,
 feb2024,
 mar2024,
 apr2024,
@@ -55,4 +62,11 @@ oct2024,
 nov2024,
 dec2024,
 jan2025,
+bnbConcert,
+celebBday,
+chikaVMs,
+csbaby,
+firstConvo,
+firstIloveyou,
+firstTaunt,
 };

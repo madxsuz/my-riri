@@ -26,76 +26,65 @@ function Picture() {
     {
       Image: feb2024,
       title: "February 2024",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!",
+      description: "Our second meet-up in Victorias led to a heartfelt confession.",
     },
     {
       Image: mar2024,
       title: "March 2024",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!",
+      description: "Our first adventure to Patag together.",
     },
     {
       Image: apr2024,
       title: "April 2024",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!",
+      description: "Tried Bibimbap for the first time with you.",
     },
     {
       Image: may2024,
       title: "May 2024",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!",
+      description: "Reminiscing about how we first met here.",
     },
     {
       Image: june2024,
       title: "June 2024",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!",
+      description: "Met your high school friends for the first time.",
     },
     {
       Image: july2024,
       title: "July 2024",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!",
+      description: "We started spending more nights together at your place.",
     },
     {
       Image: aug2024,
       title: "August 2024",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!",
+      description: "The first time I gave you a bouquet of flowers.",
     },
     {
       Image: sept2024,
       title: "September 2024",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!",
+      description: "Feeling lucky to have such a goofy, loving, and caring girlfriend like you.",
     },
     {
       Image: oct2024,
       title: "October 2024",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!",
+      description: "Celebrated your 24th birthday at Cityscape!",
     },
     {
       Image: nov2024,
       title: "November 2024",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!",
+      description: "Our second trip to Patag, enjoying the campfire together.",
     },
     {
       Image: dec2024,
       title: "December 2024",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!",
+      description: "Spent more quality time before celebrating Christmas and New Year apart.",
     },
     {
       Image: jan2025,
       title: "January 2025",
-      description:
-        "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, possimus!",
+      description: "Watched the sunset together at Seaside—one of our most unforgettable moments.",
     },
   ];
+
   return (
     <div className="min-h-screen bg-black/20 flex flex-col items-center justify-center">
       <div className="w-[90%] max-w-[400px]">
